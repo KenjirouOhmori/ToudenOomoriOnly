@@ -1,0 +1,237 @@
+ARCS EVENT LOG FILE
+DATE: Fri Feb 26 18:22:26 2021
+CTRLNAME: <TITLE: NOTITLE >
+ARCS_REVISION: REV.GNRL20061711
+
+CPU:TIME: FILE:LINE: MESSAGE
+4:4989: ARCSeventlog.cc:36: PASSED
+4:5132: ARCSassert.cc:31: PASSED
+4:5179: ARCSprint.cc:26: PASSED
+4:5216: ARCS.cc:57: PASSED
+0:5288: ARCScommon.cc:43: CPUnum = 0
+0:5306: ARCScommon.cc:44: Policy = 2
+0:5313: ARCScommon.cc:45: FuncName_param.sched_priority = 62
+0:5320: ScreenParams.cc:41: PASSED
+0:5326: ../lib/CuiPlot.hh:93: PASSED
+0:7176: ../lib/CuiPlot.hh:93: PASSED
+0:7194: ../lib/CuiPlot.hh:93: PASSED
+0:7217: ../lib/RingBuffer.hh:59: PASSED
+0:7308: ../lib/RingBuffer.hh:59: PASSED
+0:7315: ../lib/RingBuffer.hh:59: PASSED
+0:7335: ../lib/RingBuffer.hh:59: PASSED
+0:7341: ../lib/RingBuffer.hh:59: PASSED
+0:7347: ../lib/RingBuffer.hh:59: PASSED
+0:7352: ../lib/RingBuffer.hh:59: PASSED
+0:7359: ../lib/RingBuffer.hh:59: PASSED
+0:7365: ../lib/RingBuffer.hh:59: PASSED
+0:7371: ../lib/RingBuffer.hh:59: PASSED
+0:7377: ../lib/RingBuffer.hh:59: PASSED
+0:7383: ../lib/RingBuffer.hh:59: PASSED
+0:7390: ../lib/RingBuffer.hh:59: PASSED
+0:7396: ../lib/RingBuffer.hh:59: PASSED
+0:7402: ../lib/RingBuffer.hh:59: PASSED
+0:7408: ../lib/RingBuffer.hh:59: PASSED
+0:7414: ../lib/RingBuffer.hh:59: PASSED
+0:7420: ../lib/RingBuffer.hh:59: PASSED
+0:7426: ../lib/RingBuffer.hh:59: PASSED
+0:7431: ../lib/RingBuffer.hh:59: PASSED
+0:7437: ../lib/RingBuffer.hh:59: PASSED
+0:7443: ../lib/RingBuffer.hh:59: PASSED
+0:7448: ../lib/RingBuffer.hh:59: PASSED
+0:7454: ../lib/RingBuffer.hh:59: PASSED
+0:7460: ../lib/RingBuffer.hh:59: PASSED
+0:7467: ../lib/RingBuffer.hh:59: PASSED
+0:7473: ../lib/RingBuffer.hh:59: PASSED
+0:7479: ../lib/RingBuffer.hh:59: PASSED
+0:7485: ../lib/RingBuffer.hh:59: PASSED
+0:7491: ../lib/RingBuffer.hh:59: PASSED
+0:7497: ../lib/RingBuffer.hh:59: PASSED
+0:7504: ../lib/RingBuffer.hh:59: PASSED
+0:7510: ../lib/RingBuffer.hh:59: PASSED
+0:7516: GraphPlot.cc:36: PASSED
+0:7523: ../lib/CuiPlot.hh:93: PASSED
+0:7529: ../lib/CuiPlot.hh:93: PASSED
+0:7535: ../lib/CuiPlot.hh:93: PASSED
+0:7540: ../lib/CuiPlot.hh:93: PASSED
+0:7546: GraphPlot.cc:49: PASSED
+0:7551: ../lib/RingBuffer.hh:59: PASSED
+0:7557: ../lib/RingBuffer.hh:59: PASSED
+0:7565: ARCSscreen.cc:50: PASSED
+0:10330: ARCScommon.cc:43: CPUnum = 0
+0:10353: ARCScommon.cc:44: Policy = 2
+0:10362: ARCScommon.cc:45: FuncName_param.sched_priority = 67
+0:10386: ARCSscreen.cc:347: PASSED
+0:10454: ARCScommon.cc:43: CPUnum = 0
+0:10466: ARCScommon.cc:44: Policy = 2
+0:10474: ARCScommon.cc:45: FuncName_param.sched_priority = 66
+0:10500: ARCSassert.cc:166: Waiting for Emergency...
+0:10518: ARCScommon.cc:43: CPUnum = 0
+0:10528: ARCScommon.cc:44: Policy = 2
+0:10536: ARCScommon.cc:45: FuncName_param.sched_priority = 65
+0:10560: ARCScommon.cc:43: CPUnum = 1
+0:10571: ARCScommon.cc:44: Policy = 2
+0:10578: ARCScommon.cc:45: FuncName_param.sched_priority = 64
+0:10586: ARCSscreen.cc:114: PASSED
+0:10593: DataMemory.cc:41: PASSED
+1:10599: ARCSscreen.cc:437: PASSED
+1:11665: ARCSscreen.cc:442: Waiting for PHAS_START,PHAS_EXIT...
+0:16168: DataMemory.cc:52: PASSED
+0:16199: PCI-6205C.cc:32: PASSED
+0:16301: PCI-3180.cc:71: PASSED
+0:16325: PCI-3310.cc:28: PASSED
+0:16401: PCI-46610x.cc:32: PASSED
+0:16465: PCI-46610x.cc:172: IOptr[ADDR_BASECLOCK] = 64
+0:16479: PCI-46610x.cc:173: IOptr[ADDR_PRESCALER_DLL] = 1
+0:16489: PCI-46610x.cc:174: IOptr[ADDR_PRESCALER_DLM] = 0
+0:16498: PCI-46610x.cc:175: IOptr[ADDR_LINE_CTRL] = 3
+0:16507: PCI-46610x.cc:176: IOptr[ADDR_DRIVE_CTRL] = 23
+0:16517: WEF-6A.cc:30: PASSED
+0:17025: WEF-6A.cc:32:   Firm  : WEF6A Ver 4.00.05 2019/02/14  Hard  : WEF-6A1000-30  Param : 20  
+0:17349: WEF-6A.cc:34: SFx = 6.524
+0:17396: WEF-6A.cc:35: SFy = 6.491
+0:17429: WEF-6A.cc:36: SFz = 6.57
+0:17460: WEF-6A.cc:37: SMx = 222.067
+0:17493: WEF-6A.cc:38: SMy = 220.2
+0:17525: WEF-6A.cc:39: SMz = 217
+0:17610: ../src/InterfaceFunctions.hh:83: PASSED
+0:17706: ../src/ControlFunctions.hh:50: PASSED
+0:17742: ../src/ControlFunctions.hh:57: PASSED
+0:17771: ARCSthread.cc:39: PASSED
+0:17802: ../lib/SFthread.hh:120: PASSED
+0:17836: ../lib/SFthread.hh:122: INSERT_ZEROSLEEP MODE.
+0:17983: CPUSettings.cc:51: CPUnum = 3
+0:18081: CPUSettings.cc:52: Policy = 1
+0:18116: CPUSettings.cc:53: FuncName_param.sched_priority = 99
+3:18005: ../lib/SFthread.hh:336: Waiting for SFID_START,SFID_DSTRCT...
+0:18178: ../lib/SFthread.hh:449: Setting kernel parameters for x86_64
+0:18378: LinuxCommander.cc:36: /bin/echo -1 > /proc/sys/kernel/sched_rt_runtime_us
+0:19403: LinuxCommander.cc:36: /bin/echo 2147483647 > /proc/sys/kernel/sched_rt_period_us
+0:20428: ../lib/SFthread.hh:131: PASSED
+0:20621: ARCSthread.cc:130: Waiting for ITS_START,ITS_DSTRCT...
+0:20718: ARCScommon.cc:43: CPUnum = 0
+0:20757: ARCScommon.cc:44: Policy = 2
+0:20786: ARCScommon.cc:45: FuncName_param.sched_priority = 63
+0:20821: ARCSthread.cc:57: PASSED
+0:20849: ARCSscreen.cc:171: PASSED
+0:20894: ARCSscreen.cc:180: Waiting for PHAS_START,PHAS_EXIT...
+0:23894: ARCSscreen.cc:281: static_cast<int>(p->CmdPosition) = 1
+1:23915: ARCSscreen.cc:448: Waiting for PHAS_START,PHAS_EXIT...Done
+0:24028: ARCSscreen.cc:333: Waiting for CommandStatus == ActualStatus...
+0:24079: ARCSscreen.cc:186: Waiting for PHAS_START,PHAS_EXIT...Done
+0:24111: ARCSscreen.cc:191: PASSED
+0:24139: ARCS.cc:76: PASSED
+0:24185: ARCSthread.cc:77: PASSED
+0:24238: ARCSthread.cc:136: Waiting for ITS_START,ITS_DSTRCT...Done
+0:24279: ../src/ControlFunctions.hh:67: PASSED
+0:24310: ../lib/RingBuffer.hh:59: PASSED
+0:24338: ../lib/RingBuffer.hh:59: PASSED
+0:24376: ../lib/RingBuffer.hh:59: PASSED
+0:24408: ../lib/RingBuffer.hh:59: PASSED
+0:24443: ../lib/RingBuffer.hh:59: PASSED
+0:24470: ../lib/RingBuffer.hh:59: PASSED
+0:24525: ../src/ControlFunctions.hh:72: PASSED
+0:24554: ARCSassert.cc:102: Switched to Realtime Mode of Emergency Stop.
+0:24587: ../lib/SFthread.hh:182: Waiting for SFID_RUN...
+3:24643: ../lib/SFthread.hh:342: Waiting for SFID_START,SFID_DSTRCT...Done
+0:24689: ../lib/SFthread.hh:188: Waiting for SFID_RUN...Done
+0:24780: ARCSscreen.cc:197: PASSED
+0:24842: ARCSscreen.cc:339: Waiting for CommandStatus == ActualStatus...Done
+0:24892: ARCSscreen.cc:207: Waiting for PHAS_STOP...
+3:42906: ../lib/SFthread.hh:295: Starting Realtime Loop.
+0:22800521: ARCSscreen.cc:281: static_cast<int>(p->CmdPosition) = 4
+0:22800556: ARCSscreen.cc:333: Waiting for CommandStatus == ActualStatus...
+0:22800567: ARCSscreen.cc:213: Waiting for PHAS_STOP...Done
+0:22800574: ARCSscreen.cc:218: PASSED
+0:22800580: ARCSthread.cc:91: Waiting for Stop of Realtime Thread...
+0:22800586: ARCSassert.cc:110: Switched to Non-Realtime Mode of Emergency Stop.
+0:22800591: ../lib/SFthread.hh:202: Waiting for SFID_EXCMPL...
+3:22801599: ../lib/SFthread.hh:327: Ending Realtime Loop.
+3:22806147: ../lib/SFthread.hh:336: Waiting for SFID_START,SFID_DSTRCT...
+0:22806193: ../lib/SFthread.hh:208: Waiting for SFID_EXCMPL...Done
+0:22806212: ARCSthread.cc:102: Waiting for Stop of Realtime Thread...Done
+0:22806219: ../src/ControlFunctions.hh:77: PASSED
+0:22806265: ../src/ControlFunctions.hh:81: PASSED
+0:22806271: ARCS.cc:80: PASSED
+0:22806277: ARCSscreen.cc:246: PASSED
+0:22806287: ARCSscreen.cc:339: Waiting for CommandStatus == ActualStatus...Done
+0:22806298: ARCSscreen.cc:255: Waiting for PHAS_DISCEXIT,PHAS_SAVEEXIT,PHAS_RESTART...
+1:22807277: ARCSscreen.cc:462: Waiting for PHAS_DISCEXIT,PHAS_SAVEEXIT,PHAS_RESTART...
+0:22890596: ARCSscreen.cc:281: static_cast<int>(p->CmdPosition) = 6
+1:22890617: ARCSscreen.cc:468: Waiting for PHAS_DISCEXIT,PHAS_SAVEEXIT,PHAS_RESTART...Done
+0:22890730: ARCSscreen.cc:333: Waiting for CommandStatus == ActualStatus...
+1:22890823: ARCSscreen.cc:488: PASSED
+0:22890876: ARCSscreen.cc:261: Waiting for PHAS_DISCEXIT,PHAS_SAVEEXIT,PHAS_RESTART...Done
+0:22890913: ARCSscreen.cc:263: PASSED
+0:22890949: ARCS.cc:97: PASSED
+0:22892006: ARCSthread.cc:162: InfoGetThread Destructed.
+0:22892891: ARCSthread.cc:71: PASSED
+0:22892949: ../lib/SFthread.hh:155: PASSED
+3:22893009: ../lib/SFthread.hh:342: Waiting for SFID_START,SFID_DSTRCT...Done
+3:22893098: ../lib/SFthread.hh:360: RealTimeThread Destructed.
+0:22894013: LinuxCommander.cc:36: /bin/echo 1000000 > /proc/sys/kernel/sched_rt_period_us
+0:22895748: ../lib/SFthread.hh:162: PASSED
+0:22895784: ../src/ControlFunctions.hh:62: PASSED
+0:22895834: ../src/InterfaceFunctions.hh:89: PASSED
+0:22895840: PCI-3310.cc:42: PASSED
+0:22895883: PCI-3180.cc:114: PASSED
+0:22895889: PCI-6205C.cc:96: PASSED
+0:22895916: WEF-6A.cc:55: PASSED
+0:22895926: PCI-46610x.cc:58: PASSED
+0:22895934: DataMemory.cc:57: PASSED
+0:22896201: ARCSscreen.cc:119: PASSED
+0:22896232: ARCSscreen.cc:339: Waiting for CommandStatus == ActualStatus...Done
+0:22896337: ARCSscreen.cc:395: PASSED
+0:22897258: ARCSscreen.cc:134: PASSED
+0:22897286: ../lib/RingBuffer.hh:74: PASSED
+0:22897297: ../lib/RingBuffer.hh:74: PASSED
+0:22897306: GraphPlot.cc:54: PASSED
+0:22897314: ../lib/RingBuffer.hh:74: PASSED
+0:22897323: ../lib/RingBuffer.hh:74: PASSED
+0:22897331: ../lib/RingBuffer.hh:74: PASSED
+0:22897340: ../lib/RingBuffer.hh:74: PASSED
+0:22897348: ../lib/RingBuffer.hh:74: PASSED
+0:22897361: ../lib/RingBuffer.hh:74: PASSED
+0:22897370: ../lib/RingBuffer.hh:74: PASSED
+0:22897381: ../lib/RingBuffer.hh:74: PASSED
+0:22897390: ../lib/RingBuffer.hh:74: PASSED
+0:22897399: ../lib/RingBuffer.hh:74: PASSED
+0:22897408: ../lib/RingBuffer.hh:74: PASSED
+0:22897416: ../lib/RingBuffer.hh:74: PASSED
+0:22897425: ../lib/RingBuffer.hh:74: PASSED
+0:22897433: ../lib/RingBuffer.hh:74: PASSED
+0:22897441: ../lib/RingBuffer.hh:74: PASSED
+0:22897450: ../lib/RingBuffer.hh:74: PASSED
+0:22897458: ../lib/RingBuffer.hh:74: PASSED
+0:22897466: ../lib/RingBuffer.hh:74: PASSED
+0:22897475: ../lib/RingBuffer.hh:74: PASSED
+0:22897483: ../lib/RingBuffer.hh:74: PASSED
+0:22897491: ../lib/RingBuffer.hh:74: PASSED
+0:22897502: ../lib/RingBuffer.hh:74: PASSED
+0:22897510: ../lib/RingBuffer.hh:74: PASSED
+0:22897521: ../lib/RingBuffer.hh:74: PASSED
+0:22897529: ../lib/RingBuffer.hh:74: PASSED
+0:22897538: ../lib/RingBuffer.hh:74: PASSED
+0:22897546: ../lib/RingBuffer.hh:74: PASSED
+0:22897558: ../lib/RingBuffer.hh:74: PASSED
+0:22897567: ../lib/RingBuffer.hh:74: PASSED
+0:22897576: ../lib/RingBuffer.hh:74: PASSED
+0:22897584: ../lib/RingBuffer.hh:74: PASSED
+0:22897593: ../lib/RingBuffer.hh:74: PASSED
+0:22897601: ../lib/RingBuffer.hh:74: PASSED
+0:22897611: ../lib/CuiPlot.hh:107: PASSED
+0:22897620: ../lib/CuiPlot.hh:107: PASSED
+0:22897629: ../lib/CuiPlot.hh:107: PASSED
+0:22897640: ../lib/CuiPlot.hh:107: PASSED
+0:22897649: ../lib/CuiPlot.hh:107: PASSED
+0:22897658: ../lib/CuiPlot.hh:107: PASSED
+0:22897937: ../lib/CuiPlot.hh:107: PASSED
+0:22897953: ScreenParams.cc:51: PASSED
+0:22897962: ARCSprint.cc:31: PASSED
+0:22897971: ARCSassert.cc:38: PASSED
+0:22897980: ARCSeventlog.cc:41: PASSED
+0:22897992: ../lib/RingBuffer.hh:74: PASSED
+0:22898001: ../lib/RingBuffer.hh:74: PASSED
+0:22898010: ../lib/RingBuffer.hh:74: PASSED
+0:22898018: ../lib/RingBuffer.hh:74: PASSED
+0:22898029: ../lib/RingBuffer.hh:74: PASSED
+0:22898037: ../lib/RingBuffer.hh:74: PASSED
